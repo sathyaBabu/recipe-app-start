@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Recipe App</string>
+    <string name="asset_statements" translatable="false">[{ \"include\": \"https://sathyababu.github.io/.well-known/assetlinks.json\" }]</string>
+
+</resources>
